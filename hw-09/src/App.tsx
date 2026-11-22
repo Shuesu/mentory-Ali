@@ -27,7 +27,4 @@ export default function App() {
             <MemoList sortKey={sortKey} dir={dir} />
         </div>
     );
-}cd ..
-    git add .
-    git commit -m "hw-09"
-git push
+}
